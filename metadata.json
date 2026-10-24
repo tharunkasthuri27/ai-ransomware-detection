@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL-X - AI Ransomware Behaviour Analysis Lab",
+  "description": "Cybersecurity Education, Behavioural Analysis and Intelligent Threat Detection Lab with machine learning risk scoring and safe sandbox simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
